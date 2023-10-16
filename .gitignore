@@ -1,0 +1,10 @@
+# Игнорировать все файлы с расширением .log
+*.log
+
+# Игнорировать папку "build"
+/build
+
+# Игнорировать файл "config.ini"
+config.ini
+
+node_modules
