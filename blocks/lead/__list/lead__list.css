@@ -1,0 +1,9 @@
+.lead__list {
+  margin-top: 0;
+  margin-bottom: 30px;
+  padding-left: 0;
+  list-style: none;
+  font-size: 18px;
+  line-height: 2;
+  font-weight: 500;
+}

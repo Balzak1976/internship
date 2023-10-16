@@ -1,0 +1,8 @@
+.lead {
+  box-sizing: border-box;
+  width: 100%;
+  min-height: 362px;
+  background-color: #ffffff;
+  display: flex;
+  justify-content: space-between;
+}
