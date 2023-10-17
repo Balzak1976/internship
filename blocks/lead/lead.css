@@ -1,8 +1,12 @@
 .lead {
-  box-sizing: border-box;
-  width: 100%;
-  min-height: 362px;
-  background-color: #ffffff;
-  display: flex;
-  justify-content: space-between;
+	box-sizing: border-box;
+	width: 100%;
+	min-height: 362px;
+	background: linear-gradient(
+		90deg,
+		rgba(244, 251, 255, 1) 0%,
+		rgba(255, 255, 255, 1) 100%
+	);
+	display: flex;
+	justify-content: space-between;
 }
