@@ -1,0 +1,11 @@
+.card__btn {
+  width: 140px;
+  height: 42px;
+  background-color: #ff6666;
+  color: #fff;
+  font-size: 14px;
+  line-height: 1.57;
+  font-weight: 500;
+  border: 0;
+  border-radius: 2px;
+}
