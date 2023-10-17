@@ -13,3 +13,9 @@
 		right: 45px;
 	}
 }
+
+@media screen and (max-width: 768px) {
+	.lead__illustration {
+		right: 14px;
+	}
+}

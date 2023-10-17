@@ -1,27 +1,20 @@
 .page {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  max-width: 1280px;
-  box-sizing: border-box;
-  margin: 0 auto;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	max-width: 1280px;
+	box-sizing: border-box;
+	margin: 0 auto;
 }
 
-@media screen and (max-width: 1024px) {
-  .page {
-    max-width: 970px;
-  }
+@media screen and (max-width: 970px) {
+	.page {
+		max-width: 970px;
+	}
 }
 
-@media screen and (max-width: 768px) {
-  .page {
-    max-width: 768px;
-  }
-}
-
-@media screen and (max-width: 425px) {
-  .page {
-    padding-top: 16px;
-    max-width: 425px;
-  }
+@media screen and (max-width: 640px) {
+	.page {
+		max-width: 640px;
+	}
 }

@@ -16,3 +16,9 @@
     min-height: 342px;
   }
 }
+
+@media screen and (max-width: 970px) {
+  .lead {
+    min-height: 236px;
+  }
+}

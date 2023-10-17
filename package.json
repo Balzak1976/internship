@@ -1,10 +1,11 @@
 {
   "name": "internship",
+  "homepage": "https://balzak1976.github.io/internship/",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    
   },
   "repository": {
     "type": "git",
@@ -16,7 +17,6 @@
   "bugs": {
     "url": "https://github.com/Balzak1976/internship/issues"
   },
-  "homepage": "https://github.com/Balzak1976/internship#readme",
   "devDependencies": {
     "gh-pages": "^6.0.0"
   }
