@@ -1,6 +1,7 @@
 .profile {
 	flex: 1;
 	display: flex;
+	justify-content: flex-end;
 	align-items: flex-end;
 	gap: 15px;
 	text-decoration: none;

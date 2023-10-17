@@ -1,4 +1,4 @@
 .lead__illustration {
   display: block;
-  width: 560px;
+  object-fit: cover;
 }

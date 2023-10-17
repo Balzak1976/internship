@@ -1,6 +1,8 @@
 .profile__text {
+	padding-bottom: 7px;
+  box-sizing: border-box;
 	color: #003366;
 	font-size: 14px;
-	line-height: 37px;
+	line-height: 1;
 	font-weight: normal;
 }

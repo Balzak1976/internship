@@ -1,8 +1,8 @@
 .root {
-  padding-top: 40px;
-  font-family: 'Roboto', Arial, sans-serif;
-  font-style: normal;
-  color: #000;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+	padding-top: 31px;
+	font-family: 'Roboto', Calibri, Arial, sans-serif;
+	font-style: normal;
+	color: #000;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
 }

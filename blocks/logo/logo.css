@@ -1,10 +1,13 @@
 .logo {
+  display: block;
   font-size: 48px;
-  font-weight: 500;
   text-transform: uppercase;
   text-decoration: none;
   color: #000;
   transition: opacity .5s ease-in;
+  font-family: Calibri;
+  font-weight: bold;
+  line-height: 1;
 }
 
 .logo:hover {
