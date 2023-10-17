@@ -41,4 +41,7 @@
 @import url('../blocks/feature/__title/feature__title.css');
 @import url('../blocks/feature/__list/feature__list.css');
 @import url('../blocks/feature/__item/feature__item.css');
+/* footer */
+@import url('../blocks/footer/footer.css');
+@import url('../blocks/footer/__contact/footer__contact.css');
 

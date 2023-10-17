@@ -1,0 +1,9 @@
+.footer__contact {
+  margin: 0;
+  font-size: 14px;
+  line-height: 2.42;
+  letter-spacing: calc((-10 / 1000) * 1em);
+  color: #999999;
+  display: flex;
+  gap: 43px;
+}
