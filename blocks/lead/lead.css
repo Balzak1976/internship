@@ -1,5 +1,4 @@
 .lead {
-	box-sizing: border-box;
 	width: 100%;
 	min-height: 362px;
 	background: linear-gradient(
@@ -9,4 +8,11 @@
 	);
 	display: flex;
 	justify-content: space-between;
+	position: relative;
+}
+
+@media screen and (max-width: 1024px) {
+  .lead {
+    min-height: 342px;
+  }
 }

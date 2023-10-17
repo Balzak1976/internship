@@ -1,9 +1,10 @@
 .lead__list {
-  margin-top: 0;
-  margin-bottom: 19px;
-  padding-left: 0;
-  list-style: none;
-  font-size: 18px;
-  line-height: 2;
-  font-weight: 500;
+	margin-top: 0;
+	margin-bottom: 19px;
+	padding-left: 0;
+	list-style: none;
+	font-size: 18px;
+	line-height: 2;
+	letter-spacing: calc((-10 / 1000) * 1em);
+	font-weight: 500;
 }

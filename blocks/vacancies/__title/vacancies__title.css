@@ -1,6 +1,7 @@
 .vacancies__title {
-  margin: 0;
-  font-size: 28px;
-  font-weight: 500;
-  letter-spacing: -0.3px;
+	margin: 0;
+	font-size: 28px;
+	line-height: 1;
+	font-weight: 500;
+	letter-spacing: calc((-10 / 1000) * 1em);
 }

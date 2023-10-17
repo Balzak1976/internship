@@ -5,3 +5,9 @@
   gap: 35px;
   list-style: none;
 }
+
+@media screen and (max-width: 1024px) {
+  .header__menu-links  {
+    gap: 25px;
+  }
+}

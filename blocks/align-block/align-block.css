@@ -1,5 +1,12 @@
 .align-block {
-  padding-right: 80px;
-  padding-left: 80px;
-  box-sizing: border-box;
+	padding-right: 80px;
+	padding-left: 80px;
+	box-sizing: border-box;
+}
+
+@media screen and (max-width: 1024px) {
+	.align-block {
+		padding-right: 45px;
+		padding-left: 45px;
+	}
 }

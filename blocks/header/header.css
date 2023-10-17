@@ -4,3 +4,9 @@
   align-items: end;
   gap: 65px;
 }
+
+@media screen and (max-width: 1024px) {
+  .header  {
+    gap: 40px;
+  }
+}

@@ -1,14 +1,22 @@
 .card {
-  width: 265px;
-  box-sizing: border-box;
-  border-radius: 5px;
-  padding-top: 45px;
-  padding-bottom: 41px;
-  padding-right: 38px;
-  padding-left: 38px;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  box-shadow: 0 0 1000px 93px rgba(0, 0, 0, 0.05);
-  z-index: 10;
+	width: 100%;
+	box-sizing: border-box;
+	border-radius: 5px;
+	padding-top: 45px;
+	padding-bottom: 41px;
+	padding-right: 38px;
+	padding-left: 38px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	box-shadow: 0 0 1000px 93px rgba(0, 0, 0, 0.05);
+	z-index: 10;
+}
+
+@media screen and (max-width: 1024px) {
+	.card {
+    padding-top: 38px;
+		padding-right: 8px;
+		padding-left: 8px;
+	}
 }

@@ -1,4 +1,15 @@
 .lead__illustration {
-  display: block;
-  object-fit: cover;
+	position: absolute;
+	height: 100%;
+	top: 0;
+	bottom: 0;
+	right: 80px;
+	display: block;
+	object-fit: cover;
+}
+
+@media screen and (max-width: 1024px) {
+	.lead__illustration {
+		right: 45px;
+	}
 }

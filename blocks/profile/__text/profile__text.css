@@ -4,5 +4,6 @@
 	color: #003366;
 	font-size: 14px;
 	line-height: 1;
+	letter-spacing: calc((-10 / 1000) * 1em);
 	font-weight: normal;
 }
