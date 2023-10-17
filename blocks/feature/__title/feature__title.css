@@ -1,0 +1,7 @@
+.feature__title {
+  margin: 0;
+  font-size: 18px;
+  line-height: 1.33;
+  letter-spacing: calc((-10 / 1000) * 1em);
+  color: #003366;
+}

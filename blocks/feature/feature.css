@@ -1,0 +1,8 @@
+.feature {
+  box-sizing: border-box;
+  padding-top: 15px;
+  min-height: 172px;
+  width: 100%;
+  padding-left: 30px;
+  background-color: rgb(247, 252, 255);
+}
